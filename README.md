@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-[![Portfolio](https://personal-portfolio-seven-eosin-42.vercel.app/)](https://nexteralabs.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=flat-square&logo=vercel&logoColor=white)](https://nexteralabs.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=4A9EF7)](https://linkedin.com/in/KartikkkxD)
 [![Email](https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=4A9EF7)](mailto:sehwagnaman8@gmail.com)
 
