@@ -11,9 +11,9 @@
 <br/>
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=flat-square&logo=vercel&logoColor=white)](https://nexteralabs.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=4A9EF7)](https://linkedin.com/in/KartikkkxD)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=4A9EF7)](mailto:sehwagnaman8@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=flat-square&logo=vercel&logoColor=white)](https://personal-portfolio-seven-eosin-42.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=4A9EF7)](https://www.linkedin.com/in/kartikay-sharma-b1044a28b/)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=4A9EF7)](mailto:kartikays093@gmail.com)
 
 </div>
 
@@ -25,7 +25,7 @@
 I build products — not side projects.
 ```
 
-Currently focused on [Nextera Labs](https://nexteralabs.dev), a startup building tools
+Currently focused on [Nextera Labs](https://www.nextera-labs.in/), a startup building tools
 at the intersection of performance, clean architecture, and real user value.
 
 I care about: fast software, sharp interfaces, and systems that don't break in production.
@@ -54,7 +54,7 @@ I care about: fast software, sharp interfaces, and systems that don't break in p
 
 <br/>
 
-`Nextera Labs` &nbsp;—&nbsp; My startup. Building developer-focused tools with an emphasis on clean UX and production reliability.
+[`Nextera Labs`](https://www.nextera-labs.in/) &nbsp;—&nbsp; My startup. Building developer-focused tools with an emphasis on clean UX and production reliability.
 
 `SproutCircle` &nbsp;—&nbsp; A platform connecting communities around shared growth — built for scale, not just demo day.
 
