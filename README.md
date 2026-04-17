@@ -65,7 +65,7 @@ I care about: fast software, sharp interfaces, and systems that don't break in p
 ---
 
 <br/>
-
+/*
 **Stats**
 
 <div align="center">
@@ -87,3 +87,4 @@ I care about: fast software, sharp interfaces, and systems that don't break in p
 </div>
 
 <br/>
+*/
