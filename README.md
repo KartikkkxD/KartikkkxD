@@ -65,26 +65,4 @@ I care about: fast software, sharp interfaces, and systems that don't break in p
 ---
 
 <br/>
-/*
-**Stats**
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KartikkkxD&show_icons=true&theme=transparent&hide_border=true&title_color=4A9EF7&icon_color=4A9EF7&text_color=c9d1d9&hide=contribs&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikkkxD&layout=compact&theme=transparent&hide_border=true&title_color=4A9EF7&text_color=c9d1d9&langs_count=6" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-  <sub>Building in public · Open to collaboration on meaningful work</sub>
-</div>
-
-<br/>
-*/
