@@ -15,7 +15,7 @@
 
 ---
 
-### ⚡ `>_ whoami`
+### ⚡ `>_ Kartikkk`
 
 I'm an experimental engineer focused on shipping ambitious products over collecting certificates. I build AI systems, scalable scrapers, and intelligent web experiences. I'm fascinated by browser engineering, automation, and the intersection of modern UI with robust backend architectures. 
 
@@ -103,7 +103,7 @@ I'm an experimental engineer focused on shipping ambitious products over collect
 ### 📡 `>_ ping network`
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kartikays093@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/kartikaysharma">
