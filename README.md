@@ -1,121 +1,20 @@
-<div align="center">
+# 💫 About Me:
+🔭 I’m currently working on AKS, an AI-powered platform focused on helping developers understand, analyze, and navigate complex codebases.<br><br>👯 I’m looking to collaborate on AI products, developer tools, SaaS applications, and open-source projects.<br><br>🤝 I’m looking for help with scaling AI workflows, system design, and building production-ready architectures.<br><br>🌱 I’m currently learning advanced full-stack development, AI integrations, system design, and modern software architecture.<br><br>💬 Ask me about Next.js, React, TypeScript, Supabase, Firebase, AI APIs, hackathons, internships, and building projects from scratch.<br><br>⚡ Fun fact: I care more about shipping products than collecting certificates, and I probably have at least three unfinished side projects open right now.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=140&section=header&text=Kartikay%20Sharma&fontColor=ffffff&fontSize=42&animation=fadeIn" width="100%" />
 
-<a href="https://github.com/KartikkkxD">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%3E_+Building+AKS;>%20Shipping+AI-Powered+Products;%3E_+Fullstack+Developer;%3E_+Learning+by+Building;%3E_+Turning+Ideas+Into+Working+Systems" alt="Typing SVG" />
-</a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sojakartik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikays093) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartikays093@gmail.com) 
 
-<br/>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=KartikkkxD&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=KartikkkxD&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KartikkkxD&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00FF00?style=for-the-badge&logo=github&logoColor=black"/>
-<img src="https://img.shields.io/badge/FOCUS-FULLSTACK%20%2B%20AI-0D1117?style=for-the-badge&logo=openai&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/LOCATION-INDIA-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00FF00"/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KartikkkxD&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-# ⚡ `whoami`
-
-bash
-> kartikay_sharma.exe
-
-Full-stack developer focused on building ambitious products,
-experimenting with AI integrations,
-and shipping faster than I overthink.
-I care more about:
-
-* building real products
-* solving difficult implementation problems
-* and learning through execution
-
-than endlessly consuming tutorials.
-
-Currently building AKS while exploring AI workflows, automation systems, and modern web architecture.
-
-⸻
-
-🚀 current_projects/
-<div align="center">
-Project
-
-Description
-
-Stack
-
-AKS
-
-AI-powered workflow & automation-focused platform currently under development
-
-Next.js, Supabase, TypeScript
-
-Prepify
-
-Learning/productivity focused platform for preparation workflows
-
-React, Firebase
-
-Codebase Analyser
-
-Tool for understanding and navigating large codebases
-
-Next.js, AI APIs
-
-Profile Visualiser
-
-Developer/profile analytics visualization project
-
-React, Charts
-
-Voxora
-
-Authentication & frontend experimentation project
-
-Next.js, Tailwind
-</div>
-
-🛠 tech_stack.json
-<div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,tailwind,supabase,firebase,mongodb,git,github,vercel,figma,vscode&theme=dark" />
-</div>
-<br/>
-{
-  "frontend": ["React", "Next.js", "TailwindCSS"],
-  "backend": ["Node.js", "Supabase", "Firebase"],
-  "languages": ["JavaScript", "TypeScript", "Python"],
-  "currently_learning": [
-    "AI Integrations",
-    "Automation Workflows",
-    "System Design",
-    "Scalable Architectures"
-  ]
-}
-📊 github_stats.sh
-<div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=KartikkkxD&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KartikkkxD&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF00&sideLabels=C9D1D9&dates=C9D1D9"/>
-</div>
-<br/>
-<div align="center">
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikkkxD&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9"/>
-</div>
-🌐 connect.sh
-<div align="center">
-<a href="mailto:kartikays093@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF00"/>
-</a>
-<a href="https://linkedin.com/in/kartikaysharma">
-  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF00"/>
-</a>
-<a href="https://x.com/KartikkkxD">
-  <img src="https://img.shields.io/badge/TWITTER-0D1117?style=for-the-badge&logo=x&logoColor=00FF00"/>
-</a>
-</div>
-<div align="center">
-> motivation.txt
-
-"Build enough things until impossible starts feeling familiar."
-</div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
-:::
