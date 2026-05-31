@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on AKS, an AI-powered platform focused on helping developers understand, analyze, and navigate complex codebases.<br><br>👯 I’m looking to collaborate on AI products, developer tools, SaaS applications, and open-source projects.<br><br>🤝 I’m looking for help with scaling AI workflows, system design, and building production-ready architectures.<br><br>🌱 I’m currently learning advanced full-stack development, AI integrations, system design, and modern software architecture.<br><br>💬 Ask me about Next.js, React, TypeScript, Supabase, Firebase, AI APIs, hackathons, internships, and building projects from scratch.<br><br>⚡ Fun fact: I care more about shipping products than collecting certificates, and I probably have at least three unfinished side projects open right now.
 
 
